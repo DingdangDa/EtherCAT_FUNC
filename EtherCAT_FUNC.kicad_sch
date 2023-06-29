@@ -2859,7 +2859,7 @@
     (property "Value" "axt430124" (at 159.258 98.9871 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "EXTRA IC:axt430124" (at 170.688 98.806 0)
+    (property "Footprint" "EXTRA IC:axt330124" (at 170.688 98.806 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 170.688 98.806 0)
